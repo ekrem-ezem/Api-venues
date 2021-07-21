@@ -36,7 +36,7 @@ class App extends Component {
       client_secret: "W4JIPMABFIUKOLDENWGTNHZUCFUGGH1XQS3E2QVH2IOIXCTU",
       ll: this.state.coordinates,
       query: query,
-      v: "20180323",
+      v: "20210723",
       radius: 10000,
       limit: 10,
     };
