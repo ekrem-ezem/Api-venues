@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Api-venues/static/css/main.b1924591.chunk.css",
+    "main.js": "/Api-venues/static/js/main.b09020dd.chunk.js",
+    "main.js.map": "/Api-venues/static/js/main.b09020dd.chunk.js.map",
+    "runtime-main.js": "/Api-venues/static/js/runtime-main.57704f8e.js",
+    "runtime-main.js.map": "/Api-venues/static/js/runtime-main.57704f8e.js.map",
+    "static/js/2.c8e445f5.chunk.js": "/Api-venues/static/js/2.c8e445f5.chunk.js",
+    "static/js/2.c8e445f5.chunk.js.map": "/Api-venues/static/js/2.c8e445f5.chunk.js.map",
+    "static/js/3.4d44d141.chunk.js": "/Api-venues/static/js/3.4d44d141.chunk.js",
+    "static/js/3.4d44d141.chunk.js.map": "/Api-venues/static/js/3.4d44d141.chunk.js.map",
+    "index.html": "/Api-venues/index.html",
+    "static/css/main.b1924591.chunk.css.map": "/Api-venues/static/css/main.b1924591.chunk.css.map",
+    "static/js/2.c8e445f5.chunk.js.LICENSE.txt": "/Api-venues/static/js/2.c8e445f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57704f8e.js",
+    "static/js/2.c8e445f5.chunk.js",
+    "static/css/main.b1924591.chunk.css",
+    "static/js/main.b09020dd.chunk.js"
+  ]
+}
